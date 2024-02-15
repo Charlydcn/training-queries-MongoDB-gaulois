@@ -1,0 +1,70 @@
+[
+    {
+        "id_specialite": 1,
+        "nom_specialite": "Guerrier"
+    },
+    {
+        "id_specialite": 2,
+        "nom_specialite": "Barde"
+    },
+    {
+        "id_specialite": 3,
+        "nom_specialite": "Druide"
+    },
+    {
+        "id_specialite": 4,
+        "nom_specialite": "Chef de village"
+    },
+    {
+        "id_specialite": 5,
+        "nom_specialite": "Livreur de menhir"
+    },
+    {
+        "id_specialite": 6,
+        "nom_specialite": "Forgeron"
+    },
+    {
+        "id_specialite": 7,
+        "nom_specialite": "Poissonier"
+    },
+    {
+        "id_specialite": 8,
+        "nom_specialite": "Facteur"
+    },
+    {
+        "id_specialite": 9,
+        "nom_specialite": "Porteur de chef"
+    },
+    {
+        "id_specialite": 10,
+        "nom_specialite": "Garde"
+    },
+    {
+        "id_specialite": 11,
+        "nom_specialite": "Marin"
+    },
+    {
+        "id_specialite": 12,
+        "nom_specialite": "Agriculteur"
+    },
+    {
+        "id_specialite": 13,
+        "nom_specialite": "Chasseur"
+    },
+    {
+        "id_specialite": 14,
+        "nom_specialite": "Espion"
+    },
+    {
+        "id_specialite": 15,
+        "nom_specialite": "Artisan"
+    },
+    {
+        "id_specialite": 16,
+        "nom_specialite": "Femme de chef"
+    },
+    {
+        "id_specialite": 17,
+        "nom_specialite": "Autre"
+    }
+]

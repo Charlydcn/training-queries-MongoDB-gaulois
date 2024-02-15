@@ -1,0 +1,132 @@
+[
+    {
+        "id_ingredient": 1,
+        "nom_ingredient": "Petit pois",
+        "cout_ingredient": 0.5
+    },
+    {
+        "id_ingredient": 2,
+        "nom_ingredient": "Haricot vert",
+        "cout_ingredient": 1
+    },
+    {
+        "id_ingredient": 3,
+        "nom_ingredient": "Queue de crevette",
+        "cout_ingredient": 7
+    },
+    {
+        "id_ingredient": 4,
+        "nom_ingredient": "Homard",
+        "cout_ingredient": 12
+    },
+    {
+        "id_ingredient": 5,
+        "nom_ingredient": "Gui",
+        "cout_ingredient": 3
+    },
+    {
+        "id_ingredient": 6,
+        "nom_ingredient": "Salsepareille",
+        "cout_ingredient": 6.5
+    },
+    {
+        "id_ingredient": 7,
+        "nom_ingredient": "Miel",
+        "cout_ingredient": 4.5
+    },
+    {
+        "id_ingredient": 8,
+        "nom_ingredient": "Grenouille",
+        "cout_ingredient": 10
+    },
+    {
+        "id_ingredient": 9,
+        "nom_ingredient": "Bave de crapaud",
+        "cout_ingredient": 16.5
+    },
+    {
+        "id_ingredient": 10,
+        "nom_ingredient": "Carotte",
+        "cout_ingredient": 1
+    },
+    {
+        "id_ingredient": 11,
+        "nom_ingredient": "Prune",
+        "cout_ingredient": 3
+    },
+    {
+        "id_ingredient": 12,
+        "nom_ingredient": "Ver de terre",
+        "cout_ingredient": 1
+    },
+    {
+        "id_ingredient": 13,
+        "nom_ingredient": "Feuille de thé",
+        "cout_ingredient": 11
+    },
+    {
+        "id_ingredient": 14,
+        "nom_ingredient": "Courgette",
+        "cout_ingredient": 2
+    },
+    {
+        "id_ingredient": 15,
+        "nom_ingredient": "Poudre de perlimpimpin",
+        "cout_ingredient": 42
+    },
+    {
+        "id_ingredient": 16,
+        "nom_ingredient": "Champignon",
+        "cout_ingredient": 3.5
+    },
+    {
+        "id_ingredient": 17,
+        "nom_ingredient": "Aile de chauve-souris",
+        "cout_ingredient": 9
+    },
+    {
+        "id_ingredient": 18,
+        "nom_ingredient": "Plume de paon",
+        "cout_ingredient": 15
+    },
+    {
+        "id_ingredient": 19,
+        "nom_ingredient": "Persil",
+        "cout_ingredient": 0.5
+    },
+    {
+        "id_ingredient": 20,
+        "nom_ingredient": "Romarin",
+        "cout_ingredient": 0.5
+    },
+    {
+        "id_ingredient": 21,
+        "nom_ingredient": "Cervoise",
+        "cout_ingredient": 4
+    },
+    {
+        "id_ingredient": 22,
+        "nom_ingredient": "Millepertuis",
+        "cout_ingredient": 2
+    },
+    {
+        "id_ingredient": 23,
+        "nom_ingredient": "Huile de roche",
+        "cout_ingredient": 30
+    },
+    {
+        "id_ingredient": 24,
+        "nom_ingredient": "Poisson frais",
+        "cout_ingredient": 6
+    },
+    {
+        "id_ingredient": 25,
+        "nom_ingredient": "Edelweiss",
+        "cout_ingredient": 80
+    },
+    {
+        "id_ingredient": 26,
+        "nom_ingredient": "Poisson pas frais",
+        "cout_ingredient": 1
+    }
+]

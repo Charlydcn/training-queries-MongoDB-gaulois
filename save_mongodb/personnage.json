@@ -1,0 +1,338 @@
+[
+    {
+        "id_personnage": 4,
+        "nom_personnage": "Astérix",
+        "adresse_personnage": "Au fond à droite",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 1
+    },
+    {
+        "id_personnage": 5,
+        "nom_personnage": "Obélix",
+        "adresse_personnage": "Carrière de menhir",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 5
+    },
+    {
+        "id_personnage": 6,
+        "nom_personnage": "Assurancetourix",
+        "adresse_personnage": "Hutte dans l'arbre",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 2
+    },
+    {
+        "id_personnage": 7,
+        "nom_personnage": "Panoramix",
+        "adresse_personnage": "Près de la cascade",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 3
+    },
+    {
+        "id_personnage": 8,
+        "nom_personnage": "Abraracourcix",
+        "adresse_personnage": "Hutte du chef",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 4
+    },
+    {
+        "id_personnage": 9,
+        "nom_personnage": "Ordralfabétix",
+        "adresse_personnage": "Poissonnerie",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 7
+    },
+    {
+        "id_personnage": 10,
+        "nom_personnage": "Cétautomatix",
+        "adresse_personnage": "Forge",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 6
+    },
+    {
+        "id_personnage": 11,
+        "nom_personnage": "Plantaquatix",
+        "adresse_personnage": "Tout près des fleurs",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 15
+    },
+    {
+        "id_personnage": 12,
+        "nom_personnage": "Bonemine",
+        "adresse_personnage": "Hutte du chef",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 16
+    },
+    {
+        "id_personnage": 13,
+        "nom_personnage": "Agecanonix",
+        "adresse_personnage": "Centre du village",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 1
+    },
+    {
+        "id_personnage": 14,
+        "nom_personnage": "Falbala",
+        "adresse_personnage": "Rue Tabaga",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 15,
+        "nom_personnage": "Tragicomix",
+        "adresse_personnage": "Rue Tabaga",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 1
+    },
+    {
+        "id_personnage": 16,
+        "nom_personnage": "Amérix",
+        "adresse_personnage": "Avenue Avuhavaincu",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 15
+    },
+    {
+        "id_personnage": 17,
+        "nom_personnage": "Pneumatix",
+        "adresse_personnage": "Route Elkrief",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 6,
+        "id_specialite": 8
+    },
+    {
+        "id_personnage": 18,
+        "nom_personnage": "Plaintcontrix",
+        "adresse_personnage": "Impasse Hémanque",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 15
+    },
+    {
+        "id_personnage": 19,
+        "nom_personnage": "Vanendfaillevesix",
+        "adresse_personnage": "Hutte majeure",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 18,
+        "id_specialite": 1
+    },
+    {
+        "id_personnage": 20,
+        "nom_personnage": "Gueuselambix",
+        "adresse_personnage": "Hutte du chef",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 18,
+        "id_specialite": 4
+    },
+    {
+        "id_personnage": 21,
+        "nom_personnage": "Antibiotix",
+        "adresse_personnage": "Place du marché",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 13
+    },
+    {
+        "id_personnage": 22,
+        "nom_personnage": "Changélédix",
+        "adresse_personnage": "Port",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 13,
+        "id_specialite": 11
+    },
+    {
+        "id_personnage": 23,
+        "nom_personnage": "Zérozérosix",
+        "adresse_personnage": "",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 14
+    },
+    {
+        "id_personnage": 24,
+        "nom_personnage": "Analgésix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 9
+    },
+    {
+        "id_personnage": 25,
+        "nom_personnage": "Arrièreboutix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 9
+    },
+    {
+        "id_personnage": 26,
+        "nom_personnage": "Goudurix",
+        "adresse_personnage": "Rue Tilante",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 27,
+        "nom_personnage": "Homéopatix",
+        "adresse_personnage": "Boulevard Hicelle",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 15
+    },
+    {
+        "id_personnage": 28,
+        "nom_personnage": "Océanonix",
+        "adresse_personnage": "Rue Tilante",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 1
+    },
+    {
+        "id_personnage": 29,
+        "nom_personnage": "Alambix",
+        "adresse_personnage": "Magasin de vins et charbon",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 17,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 30,
+        "nom_personnage": "Bainpublix",
+        "adresse_personnage": "Magasin de vins et charbon",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 17,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 31,
+        "nom_personnage": "Vercingétorix",
+        "adresse_personnage": "Hutte du chef",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 17,
+        "id_specialite": 4
+    },
+    {
+        "id_personnage": 32,
+        "nom_personnage": "Septantesix",
+        "adresse_personnage": "Hutte de druide",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 7,
+        "id_specialite": 3
+    },
+    {
+        "id_personnage": 33,
+        "nom_personnage": "Acidcloridrix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 16,
+        "id_specialite": 14
+    },
+    {
+        "id_personnage": 34,
+        "nom_personnage": "Iélosubmarine",
+        "adresse_personnage": "Poissonnerie",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 7
+    },
+    {
+        "id_personnage": 35,
+        "nom_personnage": "Avoranfix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 15
+    },
+    {
+        "id_personnage": 36,
+        "nom_personnage": "Choucroutgarnix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 1,
+        "id_specialite": 10
+    },
+    {
+        "id_personnage": 37,
+        "nom_personnage": "César Labeldecadix",
+        "adresse_personnage": "Taverne du port",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 14,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 38,
+        "nom_personnage": "Doublepolémix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 6,
+        "id_specialite": 8
+    },
+    {
+        "id_personnage": 39,
+        "nom_personnage": "Maestria",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 8,
+        "id_specialite": 15
+    },
+    {
+        "id_personnage": 40,
+        "nom_personnage": "Odalix",
+        "adresse_personnage": "Ruelle Tay'm Strahtedji",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 12,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 41,
+        "nom_personnage": "Soutienlogistix",
+        "adresse_personnage": "Rue Stine",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 15,
+        "id_specialite": 2
+    },
+    {
+        "id_personnage": 42,
+        "nom_personnage": "Moralélastix",
+        "adresse_personnage": null,
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 1
+    },
+    {
+        "id_personnage": 43,
+        "nom_personnage": "Aplusbégalix",
+        "adresse_personnage": "En dehors de la ville",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 4
+    },
+    {
+        "id_personnage": 44,
+        "nom_personnage": "Orthopédix",
+        "adresse_personnage": "Quartier d'Orange",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 9,
+        "id_specialite": 17
+    },
+    {
+        "id_personnage": 45,
+        "nom_personnage": "Champdeblix",
+        "adresse_personnage": "Ferme Hantassion",
+        "image_personnage": "indisponible.jpg",
+        "id_lieu": 6,
+        "id_specialite": 12
+    }
+]

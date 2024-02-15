@@ -1,0 +1,170 @@
+[
+    {
+        "id_potion": 1,
+        "id_personnage": 4,
+        "date_boire": "0050-06-05",
+        "dose_boire": 2
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 6,
+        "date_boire": "0050-05-01",
+        "dose_boire": 2
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 8,
+        "date_boire": "0050-02-24",
+        "dose_boire": 9
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 9,
+        "date_boire": "0050-06-21",
+        "dose_boire": 1
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 10,
+        "date_boire": "0050-05-31",
+        "dose_boire": 3
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 13,
+        "date_boire": "0050-01-20",
+        "dose_boire": 2
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 15,
+        "date_boire": "0050-07-12",
+        "dose_boire": 1
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 22,
+        "date_boire": "0050-04-30",
+        "dose_boire": 3
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 36,
+        "date_boire": "0050-04-30",
+        "dose_boire": 3
+    },
+    {
+        "id_potion": 2,
+        "id_personnage": 13,
+        "date_boire": "0050-02-01",
+        "dose_boire": 12
+    },
+    {
+        "id_potion": 3,
+        "id_personnage": 7,
+        "date_boire": "0050-10-10",
+        "dose_boire": 2
+    },
+    {
+        "id_potion": 4,
+        "id_personnage": 13,
+        "date_boire": "0050-01-02",
+        "dose_boire": 5
+    },
+    {
+        "id_potion": 4,
+        "id_personnage": 17,
+        "date_boire": "0050-04-10",
+        "dose_boire": 5
+    },
+    {
+        "id_potion": 5,
+        "id_personnage": 23,
+        "date_boire": "0050-08-21",
+        "dose_boire": 2
+    },
+    {
+        "id_potion": 5,
+        "id_personnage": 33,
+        "date_boire": "0050-10-12",
+        "dose_boire": 7
+    },
+    {
+        "id_potion": 6,
+        "id_personnage": 16,
+        "date_boire": "0050-07-02",
+        "dose_boire": 1
+    },
+    {
+        "id_potion": 6,
+        "id_personnage": 19,
+        "date_boire": "0050-09-01",
+        "dose_boire": 12
+    },
+    {
+        "id_potion": 6,
+        "id_personnage": 20,
+        "date_boire": "0050-09-01",
+        "dose_boire": 12
+    },
+    {
+        "id_potion": 7,
+        "id_personnage": 39,
+        "date_boire": "0050-09-09",
+        "dose_boire": 20
+    },
+    {
+        "id_potion": 8,
+        "id_personnage": 32,
+        "date_boire": "0050-03-02",
+        "dose_boire": 8
+    },
+    {
+        "id_potion": 9,
+        "id_personnage": 5,
+        "date_boire": "0050-01-01",
+        "dose_boire": 38
+    },
+    {
+        "id_potion": 9,
+        "id_personnage": 9,
+        "date_boire": "0050-02-01",
+        "dose_boire": 7
+    },
+    {
+        "id_potion": 9,
+        "id_personnage": 35,
+        "date_boire": "0050-03-06",
+        "dose_boire": 14
+    },
+    {
+        "id_potion": 10,
+        "id_personnage": 13,
+        "date_boire": "0050-04-15",
+        "dose_boire": 20
+    },
+    {
+        "id_potion": 11,
+        "id_personnage": 32,
+        "date_boire": "0050-10-02",
+        "dose_boire": 5
+    },
+    {
+        "id_potion": 12,
+        "id_personnage": 6,
+        "date_boire": "0050-03-02",
+        "dose_boire": 6
+    },
+    {
+        "id_potion": 13,
+        "id_personnage": 14,
+        "date_boire": "0050-10-04",
+        "dose_boire": 3
+    },
+    {
+        "id_potion": 14,
+        "id_personnage": 42,
+        "date_boire": "0050-09-30",
+        "dose_boire": 3
+    }
+]

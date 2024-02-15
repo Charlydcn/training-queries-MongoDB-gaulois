@@ -1,0 +1,116 @@
+[
+    {
+        "id_casque": 1,
+        "nom_casque": "Villanovien",
+        "cout_casque": 865,
+        "id_type_casque": 1
+    },
+    {
+        "id_casque": 2,
+        "nom_casque": "Negau",
+        "cout_casque": 498,
+        "id_type_casque": 1
+    },
+    {
+        "id_casque": 3,
+        "nom_casque": "Corinthien",
+        "cout_casque": 765,
+        "id_type_casque": 2
+    },
+    {
+        "id_casque": 4,
+        "nom_casque": "Spangenhelm",
+        "cout_casque": 1200,
+        "id_type_casque": 4
+    },
+    {
+        "id_casque": 5,
+        "nom_casque": "Italo-celtique",
+        "cout_casque": 660,
+        "id_type_casque": 1
+    },
+    {
+        "id_casque": 10,
+        "nom_casque": "Weisenau",
+        "cout_casque": 50,
+        "id_type_casque": 1
+    },
+    {
+        "id_casque": 11,
+        "nom_casque": "Impérial-gaulois",
+        "cout_casque": 200,
+        "id_type_casque": 1
+    },
+    {
+        "id_casque": 12,
+        "nom_casque": "Gallois",
+        "cout_casque": 540,
+        "id_type_casque": 4
+    },
+    {
+        "id_casque": 13,
+        "nom_casque": "Wisigoth",
+        "cout_casque": 631,
+        "id_type_casque": 4
+    },
+    {
+        "id_casque": 14,
+        "nom_casque": "Ostrogoth",
+        "cout_casque": 743,
+        "id_type_casque": 4
+    },
+    {
+        "id_casque": 15,
+        "nom_casque": "A cornes",
+        "cout_casque": 2900,
+        "id_type_casque": 3
+    },
+    {
+        "id_casque": 16,
+        "nom_casque": "Veksø",
+        "cout_casque": 7820,
+        "id_type_casque": 3
+    },
+    {
+        "id_casque": 17,
+        "nom_casque": "Enkomi",
+        "cout_casque": 3140,
+        "id_type_casque": 3
+    },
+    {
+        "id_casque": 18,
+        "nom_casque": "Haguenau",
+        "cout_casque": 140,
+        "id_type_casque": 1
+    },
+    {
+        "id_casque": 19,
+        "nom_casque": "Picte",
+        "cout_casque": 160,
+        "id_type_casque": 3
+    },
+    {
+        "id_casque": 20,
+        "nom_casque": "Athénien",
+        "cout_casque": 452,
+        "id_type_casque": 2
+    },
+    {
+        "id_casque": 21,
+        "nom_casque": "Spartiate",
+        "cout_casque": 901,
+        "id_type_casque": 2
+    },
+    {
+        "id_casque": 22,
+        "nom_casque": "Phrygien",
+        "cout_casque": 840,
+        "id_type_casque": 2
+    },
+    {
+        "id_casque": 23,
+        "nom_casque": "Hoplite",
+        "cout_casque": 600,
+        "id_type_casque": 2
+    }
+]

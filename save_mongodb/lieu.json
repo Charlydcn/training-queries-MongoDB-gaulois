@@ -1,0 +1,74 @@
+[
+    {
+        "id_lieu": 1,
+        "nom_lieu": "Village gaulois"
+    },
+    {
+        "id_lieu": 2,
+        "nom_lieu": "Babaorum"
+    },
+    {
+        "id_lieu": 3,
+        "nom_lieu": "Laudanum"
+    },
+    {
+        "id_lieu": 4,
+        "nom_lieu": "Aquarium"
+    },
+    {
+        "id_lieu": 5,
+        "nom_lieu": "Petibonum"
+    },
+    {
+        "id_lieu": 6,
+        "nom_lieu": "Rotomagus"
+    },
+    {
+        "id_lieu": 7,
+        "nom_lieu": "Forêt des Carnutes"
+    },
+    {
+        "id_lieu": 8,
+        "nom_lieu": "Lutèce"
+    },
+    {
+        "id_lieu": 9,
+        "nom_lieu": "Condate"
+    },
+    {
+        "id_lieu": 10,
+        "nom_lieu": "En mer"
+    },
+    {
+        "id_lieu": 11,
+        "nom_lieu": "Divodurum"
+    },
+    {
+        "id_lieu": 12,
+        "nom_lieu": "Lugdunum"
+    },
+    {
+        "id_lieu": 13,
+        "nom_lieu": "Gesocribate"
+    },
+    {
+        "id_lieu": 14,
+        "nom_lieu": "Massilia"
+    },
+    {
+        "id_lieu": 15,
+        "nom_lieu": "Nicae"
+    },
+    {
+        "id_lieu": 16,
+        "nom_lieu": "Alesia"
+    },
+    {
+        "id_lieu": 17,
+        "nom_lieu": "Gergovie"
+    },
+    {
+        "id_lieu": 18,
+        "nom_lieu": "Village belge"
+    }
+]

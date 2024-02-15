@@ -1,0 +1,110 @@
+[
+    {
+        "id_casque": 2,
+        "id_personnage": 8,
+        "id_bataille": 1,
+        "qte": 8
+    },
+    {
+        "id_casque": 2,
+        "id_personnage": 15,
+        "id_bataille": 15,
+        "qte": 4
+    },
+    {
+        "id_casque": 3,
+        "id_personnage": 4,
+        "id_bataille": 11,
+        "qte": 1
+    },
+    {
+        "id_casque": 3,
+        "id_personnage": 20,
+        "id_bataille": 13,
+        "qte": 24
+    },
+    {
+        "id_casque": 4,
+        "id_personnage": 22,
+        "id_bataille": 15,
+        "qte": 2
+    },
+    {
+        "id_casque": 5,
+        "id_personnage": 4,
+        "id_bataille": 3,
+        "qte": 5
+    },
+    {
+        "id_casque": 5,
+        "id_personnage": 8,
+        "id_bataille": 5,
+        "qte": 10
+    },
+    {
+        "id_casque": 5,
+        "id_personnage": 10,
+        "id_bataille": 7,
+        "qte": 4
+    },
+    {
+        "id_casque": 10,
+        "id_personnage": 4,
+        "id_bataille": 1,
+        "qte": 21
+    },
+    {
+        "id_casque": 10,
+        "id_personnage": 5,
+        "id_bataille": 2,
+        "qte": 42
+    },
+    {
+        "id_casque": 11,
+        "id_personnage": 5,
+        "id_bataille": 2,
+        "qte": 34
+    },
+    {
+        "id_casque": 11,
+        "id_personnage": 5,
+        "id_bataille": 10,
+        "qte": 24
+    },
+    {
+        "id_casque": 14,
+        "id_personnage": 5,
+        "id_bataille": 9,
+        "qte": 32
+    },
+    {
+        "id_casque": 14,
+        "id_personnage": 36,
+        "id_bataille": 12,
+        "qte": 1
+    },
+    {
+        "id_casque": 16,
+        "id_personnage": 5,
+        "id_bataille": 11,
+        "qte": 2
+    },
+    {
+        "id_casque": 17,
+        "id_personnage": 13,
+        "id_bataille": 13,
+        "qte": 1
+    },
+    {
+        "id_casque": 18,
+        "id_personnage": 5,
+        "id_bataille": 1,
+        "qte": 60
+    },
+    {
+        "id_casque": 18,
+        "id_personnage": 8,
+        "id_bataille": 1,
+        "qte": 12
+    }
+]

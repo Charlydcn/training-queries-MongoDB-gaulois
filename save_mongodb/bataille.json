@@ -1,0 +1,92 @@
+[
+    {
+        "id_bataille": 1,
+        "nom_bataille": "Bataille du village gaulois",
+        "date_bataille": "0050-11-30",
+        "id_lieu": 1
+    },
+    {
+        "id_bataille": 2,
+        "nom_bataille": "Anniversaire d'Obélix",
+        "date_bataille": "0050-07-08",
+        "id_lieu": 2
+    },
+    {
+        "id_bataille": 3,
+        "nom_bataille": "Raid gaulois sur Petibonum",
+        "date_bataille": "0050-04-25",
+        "id_lieu": 5
+    },
+    {
+        "id_bataille": 4,
+        "nom_bataille": "Siège d'Alesia",
+        "date_bataille": "0052-05-01",
+        "id_lieu": 16
+    },
+    {
+        "id_bataille": 5,
+        "nom_bataille": "Bataille de Gergovie",
+        "date_bataille": "0052-03-26",
+        "id_lieu": 17
+    },
+    {
+        "id_bataille": 6,
+        "nom_bataille": "Rapt de druides",
+        "date_bataille": "0050-01-22",
+        "id_lieu": 7
+    },
+    {
+        "id_bataille": 7,
+        "nom_bataille": "Raid gaulois sur Aquarium",
+        "date_bataille": "0050-08-06",
+        "id_lieu": 4
+    },
+    {
+        "id_bataille": 8,
+        "nom_bataille": "Bagarre du siècle",
+        "date_bataille": "0050-02-25",
+        "id_lieu": 8
+    },
+    {
+        "id_bataille": 9,
+        "nom_bataille": "Attaque de la banque postale",
+        "date_bataille": "0050-06-30",
+        "id_lieu": 12
+    },
+    {
+        "id_bataille": 10,
+        "nom_bataille": "Raid gaulois sur Laudanum",
+        "date_bataille": "0050-09-20",
+        "id_lieu": 3
+    },
+    {
+        "id_bataille": 11,
+        "nom_bataille": "Attaque du bateau pirate",
+        "date_bataille": "0050-03-10",
+        "id_lieu": 10
+    },
+    {
+        "id_bataille": 12,
+        "nom_bataille": "Invasion de la Bretagne",
+        "date_bataille": "0050-04-04",
+        "id_lieu": 10
+    },
+    {
+        "id_bataille": 13,
+        "nom_bataille": "Bataille des cinq armées",
+        "date_bataille": "0050-09-21",
+        "id_lieu": 18
+    },
+    {
+        "id_bataille": 14,
+        "nom_bataille": "Percée de Divodurum",
+        "date_bataille": "0050-01-30",
+        "id_lieu": 11
+    },
+    {
+        "id_bataille": 15,
+        "nom_bataille": "Embuscade de la rue Tabaga",
+        "date_bataille": "0050-04-02",
+        "id_lieu": 9
+    }
+]

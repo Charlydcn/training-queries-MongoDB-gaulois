@@ -1,0 +1,127 @@
+[
+    {
+        "id_potion": 1,
+        "id_ingredient": 4,
+        "qte": 2
+    },
+    {
+        "id_potion": 1,
+        "id_ingredient": 5,
+        "qte": 20
+    },
+    {
+        "id_potion": 1,
+        "id_ingredient": 23,
+        "qte": 4
+    },
+    {
+        "id_potion": 1,
+        "id_ingredient": 24,
+        "qte": 6
+    },
+    {
+        "id_potion": 2,
+        "id_ingredient": 10,
+        "qte": 6
+    },
+    {
+        "id_potion": 2,
+        "id_ingredient": 25,
+        "qte": 1
+    },
+    {
+        "id_potion": 3,
+        "id_ingredient": 9,
+        "qte": 78
+    },
+    {
+        "id_potion": 3,
+        "id_ingredient": 23,
+        "qte": 3
+    },
+    {
+        "id_potion": 3,
+        "id_ingredient": 25,
+        "qte": 1
+    },
+    {
+        "id_potion": 4,
+        "id_ingredient": 15,
+        "qte": 1
+    },
+    {
+        "id_potion": 5,
+        "id_ingredient": 3,
+        "qte": 4
+    },
+    {
+        "id_potion": 6,
+        "id_ingredient": 8,
+        "qte": 2
+    },
+    {
+        "id_potion": 6,
+        "id_ingredient": 17,
+        "qte": 3
+    },
+    {
+        "id_potion": 7,
+        "id_ingredient": 2,
+        "qte": 41
+    },
+    {
+        "id_potion": 7,
+        "id_ingredient": 24,
+        "qte": 5
+    },
+    {
+        "id_potion": 8,
+        "id_ingredient": 6,
+        "qte": 7
+    },
+    {
+        "id_potion": 9,
+        "id_ingredient": 1,
+        "qte": 48
+    },
+    {
+        "id_potion": 9,
+        "id_ingredient": 10,
+        "qte": 3
+    },
+    {
+        "id_potion": 9,
+        "id_ingredient": 19,
+        "qte": 15
+    },
+    {
+        "id_potion": 10,
+        "id_ingredient": 11,
+        "qte": 40
+    },
+    {
+        "id_potion": 11,
+        "id_ingredient": 21,
+        "qte": 50
+    },
+    {
+        "id_potion": 12,
+        "id_ingredient": 18,
+        "qte": 3
+    },
+    {
+        "id_potion": 13,
+        "id_ingredient": 10,
+        "qte": 10
+    },
+    {
+        "id_potion": 13,
+        "id_ingredient": 26,
+        "qte": 2
+    },
+    {
+        "id_potion": 14,
+        "id_ingredient": 16,
+        "qte": 3
+    }
+]

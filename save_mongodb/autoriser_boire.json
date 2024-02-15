@@ -1,0 +1,162 @@
+[
+    {
+        "id_potion": 1,
+        "id_personnage": 4
+    },
+    {
+        "id_potion": 9,
+        "id_personnage": 5
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 6
+    },
+    {
+        "id_potion": 12,
+        "id_personnage": 6
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 7
+    },
+    {
+        "id_potion": 3,
+        "id_personnage": 7
+    },
+    {
+        "id_potion": 7,
+        "id_personnage": 7
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 8
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 9
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 10
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 12
+    },
+    {
+        "id_potion": 13,
+        "id_personnage": 12
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 13
+    },
+    {
+        "id_potion": 2,
+        "id_personnage": 13
+    },
+    {
+        "id_potion": 4,
+        "id_personnage": 13
+    },
+    {
+        "id_potion": 6,
+        "id_personnage": 13
+    },
+    {
+        "id_potion": 10,
+        "id_personnage": 13
+    },
+    {
+        "id_potion": 13,
+        "id_personnage": 14
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 15
+    },
+    {
+        "id_potion": 4,
+        "id_personnage": 17
+    },
+    {
+        "id_potion": 6,
+        "id_personnage": 19
+    },
+    {
+        "id_potion": 6,
+        "id_personnage": 20
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 22
+    },
+    {
+        "id_potion": 5,
+        "id_personnage": 23
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 24
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 25
+    },
+    {
+        "id_potion": 3,
+        "id_personnage": 25
+    },
+    {
+        "id_potion": 11,
+        "id_personnage": 26
+    },
+    {
+        "id_potion": 8,
+        "id_personnage": 30
+    },
+    {
+        "id_potion": 8,
+        "id_personnage": 32
+    },
+    {
+        "id_potion": 11,
+        "id_personnage": 32
+    },
+    {
+        "id_potion": 5,
+        "id_personnage": 33
+    },
+    {
+        "id_potion": 14,
+        "id_personnage": 33
+    },
+    {
+        "id_potion": 15,
+        "id_personnage": 33
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 34
+    },
+    {
+        "id_potion": 9,
+        "id_personnage": 35
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 36
+    },
+    {
+        "id_potion": 7,
+        "id_personnage": 39
+    },
+    {
+        "id_potion": 14,
+        "id_personnage": 42
+    },
+    {
+        "id_potion": 1,
+        "id_personnage": 44
+    }
+]

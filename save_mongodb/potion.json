@@ -1,0 +1,62 @@
+[
+    {
+        "id_potion": 1,
+        "nom_potion": "Magique"
+    },
+    {
+        "id_potion": 2,
+        "nom_potion": "Rajeunissement II"
+    },
+    {
+        "id_potion": 3,
+        "nom_potion": "Santé"
+    },
+    {
+        "id_potion": 4,
+        "nom_potion": "Vitesse"
+    },
+    {
+        "id_potion": 5,
+        "nom_potion": "Invisibilité"
+    },
+    {
+        "id_potion": 6,
+        "nom_potion": "Force"
+    },
+    {
+        "id_potion": 7,
+        "nom_potion": "Intelligence"
+    },
+    {
+        "id_potion": 8,
+        "nom_potion": "Assouplissement II"
+    },
+    {
+        "id_potion": 9,
+        "nom_potion": "Soupe"
+    },
+    {
+        "id_potion": 10,
+        "nom_potion": "Rajeunissement I"
+    },
+    {
+        "id_potion": 11,
+        "nom_potion": "Assouplissement I"
+    },
+    {
+        "id_potion": 12,
+        "nom_potion": "Envol"
+    },
+    {
+        "id_potion": 13,
+        "nom_potion": "Coloration pour cheveux"
+    },
+    {
+        "id_potion": 14,
+        "nom_potion": "Gigantisme"
+    },
+    {
+        "id_potion": 15,
+        "nom_potion": "Miniaturisation"
+    }
+]

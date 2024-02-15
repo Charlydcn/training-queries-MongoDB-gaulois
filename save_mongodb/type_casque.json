@@ -1,0 +1,18 @@
+[
+    {
+        "id_type_casque": 1,
+        "nom_type_casque": "Romain"
+    },
+    {
+        "id_type_casque": 2,
+        "nom_type_casque": "Grec"
+    },
+    {
+        "id_type_casque": 3,
+        "nom_type_casque": "Normand"
+    },
+    {
+        "id_type_casque": 4,
+        "nom_type_casque": "Autre"
+    }
+]
